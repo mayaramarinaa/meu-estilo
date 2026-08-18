@@ -1,1 +1,1 @@
-Meu projeto no ar
+Projeto web desenvolvido com foco em responsividade e experiência do usuário, utilizando HTML5, CSS3 e JavaScript. A aplicação conta com uma interface organizada e adaptável a diferentes tamanhos de tela (desktop e dispositivos móveis), incorporando comportamentos dinâmicos via JavaScript. O código-fonte está estruturado seguindo boas práticas de desenvolvimento web e o projeto encontra-se publicado e acessível online via GitHub Pages.
