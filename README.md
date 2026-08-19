@@ -1,1 +1,27 @@
-Projeto web desenvolvido com foco em responsividade e experiência do usuário, utilizando HTML5, CSS3 e JavaScript. A aplicação conta com uma interface organizada e adaptável a diferentes tamanhos de tela (desktop e dispositivos móveis), incorporando comportamentos dinâmicos via JavaScript. O código-fonte está estruturado seguindo boas práticas de desenvolvimento web e o projeto encontra-se publicado e acessível online via GitHub Pages.
+# 🌸 Meu Estilo 🌸
+
+> *Projeto web responsivo desenvolvido para atividade acadêmica.*
+
+---
+
+## 💻 Sobre o projeto
+
+O *Meu Estilo* é uma aplicação web desenvolvida com o objetivo de aplicar conceitos de *HTML5, CSS3 e JavaScript* na criação de uma página web responsiva e interativa.
+
+* *Responsividade:* Adaptado para diferentes tamanhos de tela (computadores e dispositivos móveis).
+* *Interatividade:* Comportamentos dinâmicos implementados via JavaScript.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+
+---
+
+## 🔗 Links úteis
+
+* 🌐 *Acesse o site online:* [Clique aqui para visualizar a aplicação](https://mayaramarinaa.github.io/meu-estilo/)
