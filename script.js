@@ -6,11 +6,12 @@ function mostrarEstilo(estilo) {
 
         resultado.innerHTML = `
             <strong>Seu estilo é Y2K!</strong>
-            <br>
+            <br><br>
             Você combina com peças clássicas,
-            sofisticadas e atemporais. Brinque com as proporções, 
-            invista em acessórios marcantes, aposte em texturas, brilho e sapatos destaque 
-            como botas e sandálias de plataforma.
+            sofisticadas e atemporais. Brinque com as proporções,
+            invista em acessórios marcantes, aposte em texturas,
+            brilho e sapatos destaque como botas e sandálias
+            de plataforma.
 
             <br><br>
 
@@ -25,12 +26,14 @@ function mostrarEstilo(estilo) {
 
         resultado.innerHTML = `
             <strong>Seu estilo é Streetwear!</strong>
-            <br>
+            <br><br>
             Você combina com looks modernos,
-            urbanos e cheios de personalidade. Aposte em moletons e camisas oversized, 
-            faça sobreposição de peças e lembre-se que o calçado costuma ser o ponto focal nesse estilo.
+            urbanos e cheios de personalidade. Aposte em moletons
+            e camisas oversized, faça sobreposição de peças e
+            lembre-se que o calçado costuma ser o ponto focal
+            nesse estilo.
 
-             <br><br>
+            <br><br>
 
             <button onclick="buscarInspiracao('streetwear')">
                 Descubra sua cor do dia
@@ -43,10 +46,11 @@ function mostrarEstilo(estilo) {
 
         resultado.innerHTML = `
             <strong>Seu estilo é Casual!</strong>
-            <br>
-            Você combina com peças versáteis e práticas que priorizam conforto.
-            Foque em peças coringa como camisetas de algodão e blazers, utilize
-            cores neutras, calçados confortaveis e invista na mistura de peças
+            <br><br>
+            Você combina com peças versáteis e práticas que
+            priorizam conforto. Foque em peças coringa como
+            camisetas de algodão e blazers, utilize cores neutras,
+            calçados confortáveis e invista na mistura de peças
             despojadas e sofisticadas.
 
             <br><br>
