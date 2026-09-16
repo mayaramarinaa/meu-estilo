@@ -1,0 +1,24 @@
+{
+  "name": "Meu Estilo",
+  "short_name": "Meu Estilo",
+  "description": "Uma aplicação de moda para descobrir estilos e inspirações.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F0E3",
+  "theme_color": "#842B2C",
+  "icons": [
+    {
+      "src": "icones/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icones/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
